@@ -1,6 +1,6 @@
 # Google Workspace SlackBot
 
-This project showcases a SlackBot I created for streamlining the onboarding process within my organization. The SlackBot connects to our Google Cloud Platform (GCP) project and Google Workspace to interact with user information and file information. It primarily focuses on the onboarding of interns.
+This project showcases a SlackBot I created for streamlining the onboarding process within my organization. The SlackBot connects to our Google Cloud Platform project and Google Workspace to interact with user information and file information. It primarily focuses on the onboarding of interns.
 
 ## Features
 
