@@ -115,6 +115,9 @@ celerybeat.pid
 .env
 .venv
 env/
+config/
+data/
+uploads/
 venv/
 ENV/
 env.bak/
