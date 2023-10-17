@@ -20,4 +20,4 @@ This project showcases a SlackBot I created for streamlining the onboarding proc
 
 ## Usage
 
-As a personal project, this SlackBot serves as a demonstration of what I've built. If you have any questions or are interested in the code and implementation details, feel free to reach out. However, please note that this project is not intended for general use or contributions.
+This project serves as a demonstration of what I've built, this project is not intended for general use or contributions.
